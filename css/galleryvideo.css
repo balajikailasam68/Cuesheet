@@ -1,0 +1,32 @@
+<style>
+		
+			#videogallery{
+			margin-left:-30px;
+			
+			}
+			.modal-open{
+			overflow:hidden;
+			}
+			
+		
+			
+		
+			.modal-body {
+			font-weight:bold;
+			
+		
+			.storyeditmodalbody {
+				width: 1250px;
+				 height: 100%!important;
+				 }
+ 
+			.storymodalcontent {
+				width: 495px;
+				height: 720px;
+			}
+			
+			.helpimage {
+				height: 150px;
+			}
+			
+		</style>

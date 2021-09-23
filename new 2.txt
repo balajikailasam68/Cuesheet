@@ -1,0 +1,2 @@
+INSERT INTO cuesheet (pgmID, cueID, UserID, Programname, Date,INpoint, OUTpoint,Duration,Remarks) 
+			VALUES ('-', '0600to1400', 'Balaji', '', '', '', '', '30:00', 'New Remarks')

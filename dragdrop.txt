@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=qxHz2Hk227U
+
+https://jsfiddle.net/jakecigar/q9juxyux/
+
+https://jsfiddle.net/opchggs3/3 pdf export
+
+https://www.youtube.com/watch?v=OSveDDVdtOM  pdf export
+
+SELECT * FROM cuesheet WHERE (myDate = '2021-08-04' || myDate ='2021-08-05 ' ) &&   (CueID = '2200to0600') 
+
+
+https://www.lth.se/typo3conf/ext/lth_solr/vendor/datatables/Ny%20mapp/examples/print/customisation.html
+
+https://stackpk.com/jqueryfaqs/time-difference-in-jquery
